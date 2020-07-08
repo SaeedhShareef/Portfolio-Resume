@@ -60,7 +60,7 @@ body{
 
     #header{
         position: fixed;
-            top 0;
+            top: 0;
             left: 0;
             width: 100%;
             z-index: 1;
@@ -83,7 +83,7 @@ body{
                         text-transform: uppercase;
                     }
 
-                    #header ,nav-link:hover{
+                    #header , .nav-link :hover{
                         color: var(--color-secondary) !important;
                     }
                     #header .toggle-button{
@@ -121,6 +121,8 @@ body{
                     
                 }
 
+                        
+
                 .site-banner .banner-area .author .author-img{
                             width: 200px;
                             height: 200px;
@@ -130,14 +132,14 @@ body{
                             background-size: 105%;
                             background-position: 40% 0;
                             border: 1px solid #000000;
-
+                                }
                             .card-image-top{
                                     height: 160px;
                                     width: 160px;
 
                             }
 
-                }
+                
                 @media screen and (min-width:768px) {
                 .toggle-button{
                 display: none;
@@ -153,6 +155,9 @@ body{
                     
                 }
                  
-                         
-
+                .contain {
+                    width: 800px;
+                    justify-content: center;
+                    float: right;
+                }
 
