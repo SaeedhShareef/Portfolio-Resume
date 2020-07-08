@@ -83,7 +83,11 @@ body{
                         text-transform: uppercase;
                     }
 
+<<<<<<< HEAD
                     #header , .nav-link :hover{
+=======
+                    #header ,nav-link:hover{
+>>>>>>> 6af7940612b4b1d2ea859200632be597b63e8fbe
                         color: var(--color-secondary) !important;
                     }
                     #header .toggle-button{
@@ -121,8 +125,11 @@ body{
                     
                 }
 
+<<<<<<< HEAD
                         
 
+=======
+>>>>>>> 6af7940612b4b1d2ea859200632be597b63e8fbe
                 .site-banner .banner-area .author .author-img{
                             width: 200px;
                             height: 200px;
@@ -132,12 +139,25 @@ body{
                             background-size: 105%;
                             background-position: 40% 0;
                             border: 1px solid #000000;
+<<<<<<< HEAD
                                 }
+=======
+                            }
+
+>>>>>>> 6af7940612b4b1d2ea859200632be597b63e8fbe
                             .card-image-top{
                                     height: 160px;
                                     width: 160px;
 
                             }
+<<<<<<< HEAD
+=======
+                /* Experience CSS Section */
+                .Job-Skills{
+                    text-decoration-style: none;
+                }
+
+>>>>>>> 6af7940612b4b1d2ea859200632be597b63e8fbe
 
                 
                 @media screen and (min-width:768px) {
@@ -152,6 +172,7 @@ body{
                 .skill-imgs{
                     height: 160px;
                     width: 160px;
+<<<<<<< HEAD
                     
                 }
                  
@@ -161,3 +182,9 @@ body{
                     float: right;
                 }
 
+=======
+                      }
+                      #link{
+                          justify-content: center;
+                      }
+>>>>>>> 6af7940612b4b1d2ea859200632be597b63e8fbe
