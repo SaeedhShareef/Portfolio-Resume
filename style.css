@@ -140,6 +140,9 @@ body{
                 /* Experience CSS Section */
                 .Job-Skills{
                     text-decoration-style: none;
+                    display: flex;
+                     padding-bottom: 15px; 
+                    /* padding-top: 30px; */
                 }
 
 
@@ -156,7 +159,8 @@ body{
                 .skill-imgs{
                     height: 160px;
                     width: 160px;
+                    
                       }
-                      #link{
-                          justify-content: center;
-                      }
+                     #link{
+                   justify-content: center;
+                          }
